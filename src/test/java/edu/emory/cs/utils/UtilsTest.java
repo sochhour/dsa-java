@@ -1,3 +1,5 @@
+package edu.emory.cs.utils;
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
